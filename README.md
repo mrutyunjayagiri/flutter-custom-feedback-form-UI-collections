@@ -16,7 +16,7 @@ There are five scrrens including four feedback form screens and one welcome scre
 
 
 #### Feedback FormTwo Screen
-![alt text](https://github.com/mrutyunjayagiri/flutter-custom-feedback-form-UI-collections/blob/master/assets/screens/feedback-form%20(2).png  "Feedback FormTwo Screen)
+![alt text](https://github.com/mrutyunjayagiri/flutter-custom-feedback-form-UI-collections/blob/master/assets/screens/feedback-form%20(2).png  "Feedback FormTwo Screen")
 
 
 #### Feedback FormThree Screen
