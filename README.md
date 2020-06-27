@@ -11,19 +11,19 @@ There are five scrrens including four feedback form screens and one welcome scre
 - Welcome Screen
 
 
-#### Feedback FormOne Screen
-![alt text](https://github.com/mrutyunjayagiri/flutter-custom-feedback-form-UI-collections/blob/master/assets/screens/feedback-form%20(1).png "Feedback FormOne Screen")
+#### 1. Feedback FormOne Screen
+<img src="https://github.com/mrutyunjayagiri/flutter-custom-feedback-form-UI-collections/blob/master/assets/screens/feedback-form%20(1).png" width="300" />
 
 
-#### Feedback FormTwo Screen
-![alt text](https://github.com/mrutyunjayagiri/flutter-custom-feedback-form-UI-collections/blob/master/assets/screens/feedback-form%20(2).png  "Feedback FormTwo Screen")
+#### 2. Feedback FormTwo Screen
+<img src="https://github.com/mrutyunjayagiri/flutter-custom-feedback-form-UI-collections/blob/master/assets/screens/feedback-form%20(2).png" width="300" />
 
 
-#### Feedback FormThree Screen
-![alt text](https://github.com/mrutyunjayagiri/flutter-custom-feedback-form-UI-collections/blob/master/assets/screens/feedback-form%20(3).png  "Feedback FormThree Screen")
+#### 3. Feedback FormThree Screen
+<img src="https://github.com/mrutyunjayagiri/flutter-custom-feedback-form-UI-collections/blob/master/assets/screens/feedback-form%20(3).png" width="300" />
 
-#### Feedback FormFour Screen
-![alt text](https://github.com/mrutyunjayagiri/flutter-custom-feedback-form-UI-collections/blob/master/assets/screens/feedback-form%20(4).png  "Feedback FormFour Screen")
+#### 4. Feedback FormFour Screen
+<img src="https://github.com/mrutyunjayagiri/flutter-custom-feedback-form-UI-collections/blob/master/assets/screens/feedback-form%20(4).png" width="300" />
 
 
 
